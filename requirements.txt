@@ -1,0 +1,11 @@
+discord
+apscheduler
+num2words
+psutil
+requests
+urbandict
+googletrans
+pillow
+path
+py-dactyl
+wisp
